@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **zimmad.w@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oxkIZn8WwrsH-yPNl6qGl0r5RGfd2eRe/view?usp=sharing](https://drive.google.com/file/d/1oxkIZn8WwrsH-yPNl6qGl0r5RGfd2eRe/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1cpSdihqXYbNUwViji-DC2RQqFUVv3BDQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
