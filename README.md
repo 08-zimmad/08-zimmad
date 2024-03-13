@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=08-zimmad&label=Profile%20views&color=0e75b6&style=flat" alt="08-zimmad" /> </p>
 
-- 🔭 I’ve completed working on [reminder App](https://github.com/08-zimmad/ReminderApp)
+- 🔭 I’ve completed working on [reminder App](https://github.com/08-zimmad/todo-app)
 
 - 🌱 I’m currently learning **Django, React**
 
