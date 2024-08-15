@@ -5,7 +5,7 @@
 
 - 🔭 I’ve completed working on [reminder App](https://github.com/08-zimmad/todo-app)
 
-- 🔭 I’ve completed working on [Event_nest](https://github.com/08-zimmad/event_nest)
+- 🔭 I’ve completed working on [Event_nest](https://github.com/08-zimmad/eventNest)
 
 - 💬 Ask me about **Django**
 
