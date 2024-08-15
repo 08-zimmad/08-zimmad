@@ -5,9 +5,9 @@
 
 - 🔭 I’ve completed working on [reminder App](https://github.com/08-zimmad/todo-app)
 
-- 🌱 I’m currently learning **Django, React**
+- 🔭 I’ve completed working on [Event_nest](https://github.com/08-zimmad/event_nest)
 
-- 💬 Ask me about **React, Django**
+- 💬 Ask me about **Django**
 
 - 📫 How to reach me **zimmad.w@gmail.com**
 
